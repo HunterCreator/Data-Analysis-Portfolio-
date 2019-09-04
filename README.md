@@ -1,2 +1,2 @@
-# Data-Analysis-Portfolio-
-This portfolio showcases all the data science and analytics projects that I've created in order to augment my studies in data science and machine learning.  
+# Data science portfolio by Alexander Nanor
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
