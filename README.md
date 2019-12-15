@@ -1,2 +1,2 @@
 # Data science portfolio by Alexander Nanor
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
+This portfolio highlights some of my data science/machine learning projects which I used to better understand the field from the perspective of a student. 
